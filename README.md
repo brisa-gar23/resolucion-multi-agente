@@ -116,7 +116,7 @@ bajo licencia **MIT**.
 
 Los datos utilizados en este proyecto provienen del repositorio
 [ticketmaster-price-ml](https://github.com/ethanjaredlee/ticketmaster-price-ml)
-por **ethanjaredlee**, publicado bajo la [Licencia MIT](data/LICENSE-DATASET).
+por **ethanjaredlee**, publicado bajo la [Licencia MIT](data/LICENSE-DATASET.txt).
 
 --- 
 
